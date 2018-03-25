@@ -1,1 +1,9 @@
 C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\bin\Debug\noli_test1.exe.config
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\bin\Debug\noli_test1.exe
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\bin\Debug\noli_test1.pdb
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.csprojResolveAssemblyReference.cache
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.HelloForm.resources
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.Properties.Resources.resources
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.csproj.GenerateResource.Cache
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.exe
+C:\Users\norman\Documents\GitHub\noli_test1\noli_test1\noli_test1\obj\Debug\noli_test1.pdb
