@@ -37,16 +37,17 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(171, 36);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Show Hello";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // HelloForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "HelloForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
